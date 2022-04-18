@@ -14,7 +14,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 */
 {
-  "name": "Volapük",
+  "name": "Esperanto",
   "version": "1.0",
   "manifest_version": 2,
   "description": "Volapük keyboard- Keyboard for Volapük",
@@ -30,8 +30,8 @@ limitations under the License.
       "type": "ime",
       "id": "esperanto_klavaro",
       "description": "Volapük keyboard- Keyboard for Volapük",  // user visible description
-      "language": "vo",  // The primary language this IME is used for
-      "layouts": ["vol"]
+      "language": "eo",  // The primary language this IME is used for
+      "layouts": ["epo"]
     }
   ]
 }
